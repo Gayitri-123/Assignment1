@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Application form tcs</title>
+    <style>
+        body{background-color: rgb(213, 213, 228);
+        }
+        h1{ 
+            fontsize:400px;
+            color:chartreuse;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <fieldset>
+        <legend>personal info</legend>
+            <label for="">name</label>
+            <input type="text"><br>
+            <label for="">age</label>
+            <input type="number"><br>
+            <label for="">registration number</label>
+            <input type="number"><br>
+
+
+
+        </fieldset>
+        <fieldset>
+            <legend>contact info</legend>
+            <label for="">email</label>
+            <input type="email"><br>
+            <label for="">contact</label>
+            <input type="number"><br>
+            <label for="">address</label>
+            <textarea rows="5" cols="10"></textarea>
+
+
+        </fieldset>
+        <input type="submit">
+    </form>
+</body>
+</html>
