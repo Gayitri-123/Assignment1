@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href ="https://www.google.co.in">click to open google</a>
+    <br>
+    <a href ="https://www.google.co.in">target="_blank"click to ope in new tab</a>
+   
+</body>
+</html>
